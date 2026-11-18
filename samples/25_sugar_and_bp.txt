@@ -1,0 +1,10 @@
+Heart Clinic
+Dr. R. Kulkarni
+Date: 12 Nov 2026
+Patient: W. Patil, 62 yrs
+
+Rx
+Tab Metformin 500 mg BD x 30 days after food
+Tab Glimepiride 1 mg OD before breakfast x 30 days
+Tab Amlodipine 5 mg OD morning x 30 days
+Tab Atorvastatin 20 mg HS x 30 days
