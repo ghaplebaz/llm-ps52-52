@@ -90,9 +90,9 @@ class Report(FPDF):
         rows = [
             ("Project title", "Prescription Reader", "PS number", "52"),
             ("Name", "Rushikesh Wankhede", "Roll number", "52"),
-            ("Class", "LYAIA7", "Model", "Gemini 3.5 Flash Lite"),
+            ("Class", "LYAIA7", "Enrollment no.", "ADT23SOCB0895"),
         ]
-        label_w, value_w = 34, 60
+        label_w, value_w = 32, 52
         row_h = 7.4
         x0, y0 = self.l_margin, self.get_y()
         self.set_draw_color(*RULE)
@@ -108,9 +108,9 @@ class Report(FPDF):
             self.set_font("Helvetica", "", 12)
             self.cell(value_w, 5, left_value)
             self.set_font("Helvetica", "B", 12)
-            self.cell(30, 5, right_label)
+            self.cell(36, 5, right_label)
             self.set_font("Helvetica", "", 12)
-            self.cell(46, 5, right_value)
+            self.cell(50, 5, right_value)
         y = y0 + 3 * row_h
         self.set_fill_color(255, 255, 255)
         self.rect(x0, y, self.epw, row_h, "FD")

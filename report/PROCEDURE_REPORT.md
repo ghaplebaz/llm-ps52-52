@@ -5,6 +5,7 @@
 **Name:** Rushikesh Wankhede
 **Roll number:** 52
 **Class:** LYAIA7
+**Enrollment number:** ADT23SOCB0895
 **GitHub link:** https://github.com/ghaplebaz/llm-ps52-52
 
 ## Problem statement
