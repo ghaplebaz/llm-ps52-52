@@ -118,7 +118,7 @@ class Report(FPDF):
         self.set_font("Helvetica", "B", 12)
         self.cell(label_w, 5, "GitHub link")
         self.set_font("Helvetica", "", 12)
-        self.cell(self.epw - label_w - 4, 5, "https://github.com/ghaplebaz/prescription-reader")
+        self.cell(self.epw - label_w - 4, 5, "https://github.com/ghaplebaz/llm-ps52-52")
         self.set_y(y + row_h + 1)
 
     def prompt_box(self, text: str) -> None:

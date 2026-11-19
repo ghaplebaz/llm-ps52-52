@@ -34,7 +34,7 @@ Upload these into your own Google Drive folder before 11:30 AM on 22 November 20
 - `github_link.txt` — the public repository URL
 - `screenshots/` — 3 to 5 pictures of the running app
 
-Public repository: [prescription-reader](https://github.com/ghaplebaz/prescription-reader).
+Public repository: [llm-ps52-52](https://github.com/ghaplebaz/llm-ps52-52).
 
 Do not commit `.env`. The `.gitignore` file already excludes it.
 

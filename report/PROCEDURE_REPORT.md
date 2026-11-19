@@ -5,7 +5,7 @@
 **Name:** Rushikesh Wankhede
 **Roll number:** 52
 **Class:** LYAIA7
-**GitHub link:** https://github.com/ghaplebaz/prescription-reader
+**GitHub link:** https://github.com/ghaplebaz/llm-ps52-52
 
 ## Problem statement
 
