@@ -42,4 +42,12 @@ Do not commit `.env`. The `.gitignore` file already excludes it.
 
 Fifty fictional prescriptions are in `samples/`, numbered 01 to 50. Load any of them from the dropdown and click **Build schedule**. The matching handwritten photo is shown beside the text. They cover short courses, once-daily and weekly medicines, abbreviations, a missing duration, syrups, drops, and messy writing.
 
-Screenshots of real outputs are in `screenshots/`.
+## Screenshots
+
+Sample 01, a short antibiotic course. The handwritten slip is on the right and the timetable is below.
+
+![Antibiotic course turned into a morning, afternoon, and night timetable](screenshots/01_antibiotic_course.png)
+
+Sample 02. The weekly vitamin stays off the daily clock.
+
+![Weekly vitamin kept off the morning, afternoon, and night cards](screenshots/02_acid_and_weekly.png)
